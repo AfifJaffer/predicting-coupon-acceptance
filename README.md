@@ -23,4 +23,11 @@ Model Performance Comparisons provide insights into the most effective algorithm
 Business Impact: Helps e-commerce platforms personalize coupon distribution and boost engagement.
 
 📄 License
-This project is open-source under the MIT License.
+This project is licensed under **All Rights Reserved**.  
+
+**📌 You may NOT:**  
+- Copy, modify, or distribute this project without explicit permission.  
+- Use this project for commercial or personal use without authorization.  
+
+🔒 **For permissions, contact:** "jafferafif7@gmail.com".  
+
